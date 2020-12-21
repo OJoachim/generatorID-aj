@@ -1,1 +1,1 @@
-# generatorID-aj
+@ojoachim/randomid-generator
